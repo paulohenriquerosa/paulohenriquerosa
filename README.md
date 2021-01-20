@@ -1,18 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Paulo Henrique Rosa
 
-<!--
-**paulohenriquerosa/paulohenriquerosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-Here are some ideas to get you started:
+I'm a Fullstack developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Node.JS, React.JS, React Native, Flutter & Wakanda
+- 📫 How to reach me [paulohenriquerosa04@gmail.com](mailto:paulohenriquerosa04@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulohenriquerosa&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE&line_height=21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquerosa&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Twitter Badge](https://img.shields.io/badge/-@palhorique-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/palhorique)](https://twitter.com/palhorique)
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Henrique%20Rosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-rosa)](https://www.linkedin.com/in/paulo-henrique-rosa)
